@@ -30,7 +30,7 @@
 	<section class="container mx-auto px-12 p-10 bg-blue-200 py-32 shadow-md">
 		<h1 class=" text-black text-4xl">Profile <?= $sekarang ?></h1>
 		<h4 class=" text-black text-2xl">Praktikum PTW</h4><br>
-		<a href="<?php echo base_url('index.php/c_login/logout') ?>" class="bg-black text-white font-bold rounded-full py-3 px-5 shadow-lg uppercase tracking-wider">Logout</a>
+		<a href="<?php echo base_url('index.php/c_login/logout') ?>" class="bg-black font-bold rounded-full py-3 px-5 shadow-lg uppercase tracking-wider">Logout</a>
 	</section>
 </body>
 

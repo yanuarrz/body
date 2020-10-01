@@ -29,15 +29,15 @@
 				<form>
 					<label>Username</label><br>
 					<div class="my-3">
-						<input type="text" name="user" class="border rounded w-full py-2 px-4 outline-none focus:shadow-outline" placeholder="isi username" autofocus="">
+						<input type="text" name="user" class="border rounded w-full py-2 px-4 outline-none focus:shadow-outline" placeholder="fill username" autofocus="">
 					</div>
 					<label>Password</label><br>
 					<div class="my-3">
-						<input type="password" name="pass" class="border rounded w-full py-2 px-4 outline-none focus:shadow-outline" placeholder="isi password" autofocus="">
+						<input type="password" name="pass" class="border rounded w-full py-2 px-4 outline-none focus:shadow-outline" placeholder="fill password" autofocus="">
 					</div>
 					<div>
 						<div class="flex items-center justify-between">
-							<button type="submit" class="bg-teal-600 hover:bg-teal-500 text-white font-bold py-2 px-4 shadow-md rounded" value="Login">Login</button>
+							<button type="submit" class="bg-teal-600 hover:bg-teal-500 text-white font-bold py-2 px-4 shadow-md rounded" value="Login Now">Login</button>
 						</div>
 					</div>
 				</form>
